@@ -1,0 +1,11 @@
+{
+	"Name" : "Mars",
+	"Size" : "1.6318×1011 km3",
+	"Mass" : "6.4185×1023 kg",
+	"Aphelion": "249200000",
+	"Perihelion": "206700000",
+	"GravitationalForce" : "3.711 m/s²",
+	"EscapeVelocity" : "5.027 km/s",
+	"Composition" : "Mars has approximately half the diameter of Earth. It is less dense than Earth, having about 15% of Earth's volume and 11% of the mass. Its surface area is only slightly less than the total area of Earth's dry land.[7] Although Mars is larger and more massive than Mercury, Mercury has a higher density. This results in the two planets having a nearly identical gravitational pull at the surface—that of Mars is stronger by less than 1%. The red-orange appearance of the Martian surface is caused by iron(III) oxide, more commonly known as hematite, or rust.[28] It can also look like butterscotch,[29] and other common surface colors include golden, brown, tan, and greenish, depending on minerals.[29]",
+	"ImageUrl" : "../images/mars.jpg"
+}

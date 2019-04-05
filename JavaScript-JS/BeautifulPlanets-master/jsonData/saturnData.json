@@ -1,0 +1,11 @@
+{
+	"Name" : "Saturn",
+	"Size" : "8.2713×1014 km3",
+	"Mass" : "5.6846×1026 kg",
+	"Aphelion": 1513325783,
+	"Perihelion": 1353572956,
+	"GravitationalForce" : "10.44 m/s²",
+	"EscapeVelocity" : "35.5 km/s",
+	"Composition" : "The outer atmosphere of Saturn contains 96.3% molecular hydrogen and 3.25% helium by volume.[35] The proportion of helium is significantly deficient compared to the abundance of this element in the Sun.[25] The quantity of elements heavier than helium is not known precisely, but the proportions are assumed to match the primordial abundances from the formation of the Solar System. The total mass of these heavier elements is estimated to be 19–31 times the mass of the Earth, with a significant fraction located in Saturn's core region.[36] Trace amounts of ammonia, acetylene, ethane, propane, phosphine and methane have been detected in Saturn's atmosphere.[37][38][39] The upper clouds are composed of ammonia crystals, while the lower level clouds appear to consist of either ammonium hydrosulfide (NH4SH) or water.[40] Ultraviolet radiation from the Sun causes methane photolysis in the upper atmosphere, leading to a series of hydrocarbon chemical reactions with the resulting products being carried downward by eddies and diffusion. This photochemical cycle is modulated by Saturn's annual seasonal cycle.[39]",
+	"ImageUrl" : "../images/saturn.jpg"
+}

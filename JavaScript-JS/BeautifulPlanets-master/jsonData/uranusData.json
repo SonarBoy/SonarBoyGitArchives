@@ -1,0 +1,11 @@
+{
+	"Name" : "Uranus",
+	"Size" : "6.833×1013 km3",
+	"Mass" : "(8.6810±0.0013)×1025 kg",
+	"Aphelion": 3006224700,
+	"Perihelion": 2735118100,
+	"GravitationalForce" : "8.69 m/s²",
+	"EscapeVelocity" : "21.3 km/s",
+	"Composition" : "Uranus revolves around the Sun once every 84 Earth years. Its average distance from the Sun is roughly 3 billion km (about 20 AU). The variation of that distance is greater than that of any other planet, at 1.8 AU.[44] The intensity of sunlight reduces quadratically with distance, and therefore on Uranus, at about 20 times the distance from the Sun compared to Earth, it is about 1/400 the intensity of light on Earth.[45] Its orbital elements were first calculated in 1783 by Pierre-Simon Laplace.[46] With time, discrepancies began to appear between the predicted and observed orbits, and in 1841, John Couch Adams first proposed that the differences might be due to the gravitational tug of an unseen planet. In 1845, Urbain Le Verrier began his own independent research into Uranus's orbit. On September 23, 1846, Johann Gottfried Galle located a new planet, later named Neptune, at nearly the position predicted by Le Verrier.[47] The rotational period of the interior of Uranus is 17 hours, 14 minutes, clockwise (retrograde). As on all giant planets, its upper atmosphere experiences strong winds in the direction of rotation. At some latitudes, such as about 60 degrees south, visible features of the atmosphere move much faster, making a full rotation in as little as 14 hours.[48]",
+	"ImageUrl" : "../images/uranus.jpg"
+}

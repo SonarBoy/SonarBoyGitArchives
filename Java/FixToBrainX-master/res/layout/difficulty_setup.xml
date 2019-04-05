@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fixtobrainx.MainActivity" >
+
+    <ScrollView
+        android:id="@+id/difficultyScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" >
+		
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="1000dp" >
+
+            <TextView
+                android:id="@+id/lenghtLabel"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:text="Starting Length"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/modderLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/difficultySeekBar"
+                android:layout_marginTop="24dp"
+                android:text="Modder Level"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <SeekBar
+                android:id="@+id/modderSeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/modderLabel"
+                android:layout_marginTop="16dp"
+                android:progressDrawable="@drawable/red_seek_bar"
+                android:thumb="@drawable/red_seek_bar_thumb" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/modderSeekBar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="52dp"
+                android:text="Patterns"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <Button
+                android:id="@+id/sendBackButton"
+                style="?android:attr/buttonStyleSmall"
+                android:background="@drawable/checker_button_shape"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/textView3"
+                android:layout_marginTop="74dp"
+                android:text="Send Back" />
+
+            <SeekBar
+                android:id="@+id/difficultySeekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/lenghtLabel"
+                android:layout_marginTop="8dp"
+                android:progressDrawable="@drawable/red_seek_bar"
+                android:thumb="@drawable/red_seek_bar_thumb" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    
+
+</RelativeLayout>

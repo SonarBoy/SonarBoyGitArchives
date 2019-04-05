@@ -1,0 +1,11 @@
+{
+	"Name" : "Venus",
+	"Size" : "9.28×1011 km3",
+	"Mass" : "4.8676×1024 kg",
+	"Aphelion": 108939000,
+	"Perihelion": 107477000,
+	"GravitationalForce" : "8.87 m/s²",
+	"EscapeVelocity" : "10.36 km/s",
+	"Composition" : "Venus has an extremely dense atmosphere, which consists mainly of carbon dioxide and a small amount of nitrogen. The atmospheric mass is 93 times that of Earth's atmosphere, whereas the pressure at the planet's surface is about 92 times that at Earth's surface—a pressure equivalent to that at a depth of nearly 1 kilometre under Earth's oceans. The density at the surface is 65 kg/m3, 6.5% that of water. The CO2-rich atmosphere, along with thick clouds of sulfur dioxide, generates the strongest greenhouse effect in the Solar System, creating surface temperatures of at least 735 K (462 °C).[11][41] This makes the Venusian surface hotter than Mercury's, which has a minimum surface temperature of 55 K (−220 °C) and maximum surface temperature of 695 K (420 °C),[42] even though Venus is nearly twice Mercury's distance from the Sun and thus receives only 25% of Mercury's solar irradiance. The surface of Venus is often described as hellish.[43] This temperature is higher than temperatures used to achieve sterilization.",
+	"ImageUrl" : "../images/venus.jpg"
+}

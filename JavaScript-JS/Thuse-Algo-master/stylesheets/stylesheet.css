@@ -1,0 +1,39 @@
+#content{
+	background-color: #85C2FF;
+	width: 400px;
+	height: 100px;
+	border-radius: 15px;
+	-webkit-box-shadow: 15px 14px 0px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 15px 14px 0px 0px rgba(0,0,0,0.75);
+	box-shadow: 15px 14px 0px 0px rgba(0,0,0,0.75);
+
+}
+
+.align{
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+
+.contentArea{
+	width: 1000px;
+	height: 100px;
+	float: top;
+	border-color: black;
+	border-radius: 5px;
+	border-style: solid;
+	box-shadow: 7px 7px 3px 0px rgba(49, 47, 50, 0.84);
+	font-size: 150%;
+}
+
+.contentAreaTwo{
+	width: 1000px;
+	height: 100px;
+	float: top;
+	border-color: black;
+	border-radius: 5px;
+	border-style: solid;
+	box-shadow: 7px 7px 3px 0px rgba(49, 47, 50, 0.84);
+	background-color : #85C2FF;
+	font-size: 150%;
+}

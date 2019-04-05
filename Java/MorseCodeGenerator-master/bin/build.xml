@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<project basedir="." default="MorseCode">
+	
+	<target name="MorseCode">
+		<echo>Creating Generator</echo>
+		<antcall target="Create"></antcall>
+	</target>
+	
+    <target name="Create">
+            
+    	<mkdir dir="src"/>
+    	<copy file="morse.properties" todir="src"></copy>
+    	
+    	<javac srcdir="." includeantruntime="false"></javac>
+    	<jar destfile="./MVCMorse.jar" includes="src,*.class" basedir=".">
+    		<manifest>
+    			<attribute name="Main-Class" value="MVCMorse"/>
+    		</manifest>
+    	</jar>
+    	
+    	<delete>
+    		<fileset dir="." includes="*.class"></fileset>
+    	</delete>
+    	
+    	
+    </target>
+
+	
+</project>

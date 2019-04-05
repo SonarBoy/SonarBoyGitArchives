@@ -1,0 +1,11 @@
+{
+	"Name" : "Jupiter",
+	"Size" : "1.4313×1015 km3",
+	"Mass" : "1.8986×1027 kg",
+	"Aphelion": 816520800,
+	"Perihelion": 740573600,
+	"GravitationalForce" : "24.79 m/s²",
+	"EscapeVelocity" : "59.5 km/s",
+	"Composition" : "Jupiter's upper atmosphere is composed of about 88–92% hydrogen and 8–12% helium by percent volume of gas molecules. Since a helium atom has about four times as much mass as a hydrogen atom, the composition changes when described as the proportion of mass contributed by different atoms. Thus, the atmosphere is approximately 75% hydrogen and 24% helium by mass, with the remaining one percent of the mass consisting of other elements. The interior contains denser materials, such that the distribution is roughly 71% hydrogen, 24% helium and 5% other elements by mass. The atmosphere contains trace amounts of methane, water vapor, ammonia, and silicon-based compounds. There are also traces of carbon, ethane, hydrogen sulfide, neon, oxygen, phosphine, and sulfur. The outermost layer of the atmosphere contains crystals of frozen ammonia.[15][16] Through infrared and ultraviolet measurements, trace amounts of benzene and other hydrocarbons have also been found.[17] The atmospheric proportions of hydrogen and helium are close to the theoretical composition of the primordial solar nebula. Neon in the upper atmosphere only consists of 20 parts per million by mass, which is about a tenth as abundant as in the Sun.[18] Helium is also depleted, to about 80% of the Sun's helium composition. This depletion is a result of precipitation of these elements into the interior of the planet.[19] Abundances of heavier inert gases in Jupiter's atmosphere are about two to three times that of the Sun.",
+	"ImageUrl" : "../images/jupiter.jpg"
+}

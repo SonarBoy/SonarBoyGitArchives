@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.fixtobrainx.MainActivity" >
+
+    <Button
+        android:id="@+id/add_Button"
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/addition_button_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sub_Button"
+        android:layout_alignRight="@+id/sub_Button"
+        android:layout_below="@+id/sub_Button"
+        android:layout_marginTop="20dp"
+        android:text="Addition Worm" />
+
+    <Button
+        android:id="@+id/speech_Button"
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/speech_button_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/add_Button"
+        android:layout_alignRight="@+id/add_Button"
+        android:layout_below="@+id/add_Button"
+        android:layout_marginTop="24dp"
+        android:text="Speech Problems" />
+
+    <Button
+        android:id="@+id/sub_Button"
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/subtraction_button_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:text="Subtraction Worm" />
+
+    <Button
+        android:id="@+id/difficultyButton"
+        style="?android:attr/buttonStyleSmall"
+        android:background="@drawable/difficulty_button_shape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/speech_Button"
+        android:layout_alignRight="@+id/speech_Button"
+        android:layout_below="@+id/speech_Button"
+        android:layout_marginTop="18dp"
+        android:text="Difficulty Pod" />
+
+    <TextView
+        android:id="@+id/testerView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/blueTooth"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/difficultyButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="Button" />
+    	
+</RelativeLayout>

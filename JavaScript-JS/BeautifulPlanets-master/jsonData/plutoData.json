@@ -1,0 +1,11 @@
+{
+	"Name" : "Pluto",
+	"Size" : "6.39×109 km3",
+	"Mass" : "(1.305±0.007)×1022 kg",
+	"Aphelion": 7311000000,
+	"Perihelion": 4437000000,
+	"GravitationalForce" : "0.658 m/s²",
+	"EscapeVelocity" : "1.229 km/s",
+	"Composition" : "Pluto (134340 Pluto) is the largest object in the Kuiper belt,[i][j] the tenth-most-massive known body directly orbiting the Sun, and the second-most-massive known dwarf planet, after Eris. Like other Kuiper belt objects, Pluto is primarily made of rock and ice,[15] and relatively small, about 1/6 the mass of the Moon and 1/3 its volume. It has an eccentric and highly inclined orbit that takes it from 30 to 49 AU (4.4–7.4 billion km) from the Sun. Hence Pluto periodically comes closer to the Sun than Neptune, but an orbital resonance with Neptune prevents the bodies from colliding. In 2014 it was 32.6 AU from the Sun. Light from the Sun takes about 5.5 hours to reach Pluto at its average distance (39.4 AU)",
+	"ImageUrl" : "../images/pluto.jpg"
+}

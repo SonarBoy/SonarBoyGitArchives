@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<project basedir="." default="Classroom Data">
+	
+	<property name="base.dir" location="."/>
+	<property name="parent.dir" location=".." />
+	
+	<target name="Classroom Data">
+		
+		<echo>${base.dir}</echo>
+		<echo>${parent.dir}</echo>
+		
+		<antcall target="Compile"/>
+	</target>
+	
+	<target name="Compile">
+		
+		<!--Make the data folder -->
+		<mkdir dir="src"></mkdir>
+		<mkdir dir="lib"></mkdir>
+		<copy file="classroomData.properties" todir="src"></copy>
+		
+		
+		<path id="some.classpath">
+		    <fileset dir="lib">
+		        <include name="*.jar"/>
+		    </fileset>
+		    <pathelement location="log4j-1.2.17.jar"/>
+		</path>
+		
+		<!--Compile everything and make a jar -->
+		<javac srcdir="." includeantruntime="false">
+			<classpath refid="some.classpath"/>
+		</javac>
+		<jar destfile="./MVCClassroom.jar" includes="src,*.class" basedir=".">
+			<manifest>
+				<attribute name="Main-Class" value="MVCClassroom"/>
+			</manifest>
+		</jar>
+		
+		<!--Remove all the classes -->
+		<delete>
+			<fileset dir="." includes="*.class"></fileset>
+		</delete>
+		
+	</target>
+	
+	
+</project>

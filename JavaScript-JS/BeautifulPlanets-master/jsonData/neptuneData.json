@@ -1,0 +1,11 @@
+{
+	"Name" : "Neptune",
+	"Size" : "6.254×1013 km3",
+	"Mass" : "1.0243×1026 kg",
+	"Aphelion": 4537580900,
+	"Perihelion": 4459504400,
+	"GravitationalForce" : "11.15 m/s²",
+	"EscapeVelocity" : "23.5 km/s",
+	"Composition" : "Neptune was the first planet found by mathematical prediction rather than by empirical observation. Unexpected changes in the orbit of Uranus led Alexis Bouvard to deduce that its orbit was subject to gravitational perturbation by an unknown planet. Neptune was subsequently observed on 23 September 1846[1] by Johann Galle within a degree of the position predicted by Urbain Le Verrier, and its largest moon, Triton, was discovered shortly thereafter, though none of the planet's remaining 13 moons were located telescopically until the 20th century. Neptune was visited by Voyager 2, when it flew by the planet on 25 August 1989.[10] Neptune is similar in composition to Uranus, and both have compositions that differ from those of the larger gas giants, Jupiter and Saturn. Neptune's atmosphere, like Jupiter's and Saturn's, is composed primarily of hydrogen and helium, along with traces of hydrocarbons and possibly nitrogen; it contains a higher proportion of ices such as water, ammonia, and methane. Astronomers sometimes categorise Uranus and Neptune as ice giants to emphasise this distinction.[11] The interior of Neptune, like that of Uranus, is primarily composed of ices and rock.[12] Perhaps the core has a solid surface, but the temperature would be thousands of degrees and the atmospheric pressure crushing.[13] Traces of methane in the outermost regions in part account for the planet's blue appearance.[14]",
+	"ImageUrl" : "../images/neptune.jpg"
+}

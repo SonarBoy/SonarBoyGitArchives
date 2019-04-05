@@ -1,0 +1,59 @@
+.header{
+	width:auto;
+	text-align: center;
+	margin: 5px auto 5px auto;
+	/*background:linear-gradient(45deg,#00B200,#4DFF4D); */
+	/*background:linear-gradient(to right, #009900 1%,#33FF33 10%,#33FF33 51%,#33FF33 96%,#009900 100%); */
+	background:linear-gradient(to right, #008000 0%, #00CC00 15%, #4DFF4D 50%, #00CC00 80%,#008000 110% );	
+}
+
+.header img{
+	margin: 10px auto 10px auto;
+	border-radius: 10px;
+}
+
+
+.inputPane{
+	margin: 10px auto 10px auto;
+	display: inline-block;
+
+	width: 500px;
+	height: 150px;
+
+	background-color: white;
+	background-image: url(../images/picnic-blanket.jpg);
+	background-position: top left;
+	background-repeat: repeat;
+
+	border-color: red;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 5px;
+}
+
+.label{
+	margin: 10px auto 10px auto;
+	display: inline-block;
+}
+
+.outputField{
+	background-color: white;
+	height: auto;
+	width: auto;
+}
+
+.testing{
+	background-color: #B8E6E6;
+	display: inline-block;
+	border-color: black;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 5px;
+
+	margin: 10px 10px 10px 10px; 
+}
+
+.testing li{
+	list-style: none;
+	padding-left: 0px;
+}

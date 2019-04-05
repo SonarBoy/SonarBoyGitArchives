@@ -1,0 +1,20 @@
+{
+  "name": "comp392lab3",
+  "version": "1.0.0",
+  "description": "gulp automation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonarBoy/COMP392-Lab3.git"
+  },
+  "author": "SonarBoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonarBoy/COMP392-Lab3/issues"
+  },
+  "homepage": "https://github.com/SonarBoy/COMP392-Lab3#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}

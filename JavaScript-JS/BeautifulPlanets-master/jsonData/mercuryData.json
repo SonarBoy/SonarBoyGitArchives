@@ -1,0 +1,11 @@
+{
+	"Name" : "Mercury",
+	"Size" : "6.083x1010 km3",
+	"Mass" : "3.3022×1023 kg",
+	"Aphelion": "46001200",
+	"Perihelion": "69816900",
+	"GravitationalForce" : "3.7 m/s²",
+	"EscapeVelocity" : "4.25 km/s",
+	"Composition" : "Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth. It is the smallest planet in the Solar System, with an equatorial radius of 2,439.7 kilometres (1,516.0 mi).[3] Mercury is also smaller—albeit more massive—than the largest natural satellites in the Solar System, Ganymede and Titan. Mercury consists of approximately 70% metallic and 30% silicate material.[14] Mercury's density is the second highest in the Solar System at 5.427 g/cm3, only slightly less than Earth's density of 5.515 g/cm3.[3] If the effect of gravitational compression were to be factored out, the materials of which Mercury is made would be denser, with an uncompressed density of 5.3 g/cm3 versus Earth's 4.4 g/cm3.[15]",
+	"ImageUrl" : "../images/mercury.jpg"
+}

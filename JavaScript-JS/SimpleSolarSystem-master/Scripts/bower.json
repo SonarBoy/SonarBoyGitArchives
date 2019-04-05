@@ -1,0 +1,26 @@
+{
+  "name": "simplesolarsystem",
+  "authors": [
+    "Joshua (SonarBoy)"
+  ],
+  "description": "Second Assingment",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/SonarBoy/SimpleSolarSystem",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib",
+    "./lib"
+  ],
+  "dependencies": {
+    "three.js": "*",
+    "dat-gui": "*",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}

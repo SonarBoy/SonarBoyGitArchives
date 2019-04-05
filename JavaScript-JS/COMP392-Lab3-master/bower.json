@@ -1,0 +1,27 @@
+{
+  "name": "gulpexample",
+  "authors": [
+    "Joshua (SonarBoy)"
+  ],
+  "description": "automation testing",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/SonarBoy/COMP392-Lab3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Scripts/lib",
+    "./lib",
+    "./Scripts/lib"
+  ],
+  "dependencies": {
+    "three.js": "*",
+    "dat-gui": "*",
+    "stats.js": "*",
+    "threex.colliders": "*"
+  }
+}

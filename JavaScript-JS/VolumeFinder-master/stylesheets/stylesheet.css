@@ -1,0 +1,61 @@
+.inputPanel {
+	background-color: #A3A3CC;
+	border-radius: 10px;
+	width: 400px;
+
+	-webkit-box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+	-moz-box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+	box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+
+}
+
+.inputLine{
+	margin-left: 20px;
+}
+
+/* 
+	Display Classes========================================================================
+*/
+
+.shapeDisplayPanel{
+	margin-top: 10px;
+
+	height:110px;
+	width:450px;
+
+	border-radius: 20px;
+
+	background: -webkit-linear-gradient(white, 	#3399FF); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(white, 	#3399FF); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(white, #3399FF); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(white, #3399FF); /* Standard syntax */
+
+	-webkit-box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+	-moz-box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+	box-shadow: 10px 10px 3px 0px rgba(0,0,0,0.92);
+
+
+}
+
+.imageIcon{
+	height: 100px;
+	width: 100px;
+
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 15px;
+
+	float : left;
+
+}
+
+.shapeInfoText{
+	float: left;
+	margin-left: 10px;
+}
+
+.paraInfo{
+	height: 10px;
+	width : 300px;
+}
